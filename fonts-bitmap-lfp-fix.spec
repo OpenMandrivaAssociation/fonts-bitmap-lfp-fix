@@ -1,7 +1,7 @@
 Name: fonts-bitmap-lfp-fix
 Summary: Linux Font Project fixed width bitmap fonts for X11
 Version: 0.83
-Release: %mkrel 1
+Release: %mkrel 3
 Source0: http://ovh.dl.sourceforge.net/sourceforge/xfonts/lfpfonts-fix-src-0.83.tar.bz2
 License: Public Domain
 Group: System/Fonts/X11 bitmap
