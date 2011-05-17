@@ -10,6 +10,7 @@ BuildRequires: bdftopcf
 BuildRequires: mkfontdir
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
+BuildRequires: fontconfig
 
 %description
 This package is a part of bigger project -- Linux Font Project. It includes
