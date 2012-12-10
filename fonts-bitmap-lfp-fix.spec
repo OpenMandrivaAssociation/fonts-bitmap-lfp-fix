@@ -47,3 +47,27 @@ rm -rf %{buildroot}
 %dir %_datadir/fonts/lfp-fix
 %_datadir/fonts/lfp-fix/*
 %_sysconfdir/X11/fontpath.d/lfp-fix:unscaled:pri=50
+
+
+%changelog
+* Tue May 17 2011 Funda Wang <fwang@mandriva.org> 0.83-6mdv2011.0
++ Revision: 675499
+- br fontconfig for fc-query used in new rpm-setup-build
+
+* Thu Dec 09 2010 Oden Eriksson <oeriksson@mandriva.com> 0.83-5mdv2011.0
++ Revision: 618311
+- the mass rebuild of 2010.0 packages
+
+* Thu Sep 03 2009 Thierry Vignaud <tv@mandriva.org> 0.83-4mdv2010.0
++ Revision: 428825
+- rebuild
+
+* Thu Jul 24 2008 Thierry Vignaud <tv@mandriva.org> 0.83-3mdv2009.0
++ Revision: 245253
+- rebuild
+
+* Fri Feb 22 2008 Gustavo De Nardin <gustavodn@mandriva.com> 0.83-1mdv2008.1
++ Revision: 173805
+- import fonts-bitmap-lfp-fix
+
+
