@@ -5,7 +5,7 @@ Release: 7
 Source0: http://ovh.dl.sourceforge.net/sourceforge/xfonts/lfpfonts-fix-src-0.83.tar.bz2
 License: Public Domain
 Group: System/Fonts/X11 bitmap
-Url: http://dreamer.nitro.dk/typography/bitmap-fonts.html
+Url: https://dreamer.nitro.dk/typography/bitmap-fonts.html
 BuildRequires: bdftopcf
 BuildRequires: mkfontdir
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
